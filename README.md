@@ -1,4 +1,5 @@
-awesome-job-titles
-==================
+# awesome job titles `AJTs`
 
-the most awesome job titles you'll ever see 
+* CSS Ninja Master 3rd Degree Black Belt Guru Stealth Monk `CNM3DBBGSM`
+
+### add your own AJTs - Pull Requests welcome!
